@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": {
+      "A": "&lt;link&gt;",
+      "B": "&lt;script&gt;",
+      "C": "&lt;style&gt;",
+      "D": "&lt;javascript&gt;"
+    },
+    "correctAnswer": "B",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script?",
+    "options": {
+      "A": "&lt;script src='filepath.js'&gt;",
+      "B": "&lt;script href='filepath.js'&gt;",
+      "C": "&lt;script name='filepath.js'&gt;",
+      "D": "&lt;script class='filepath.js'&gt;"
+    },
+    "correctAnswer": "A",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "What are the 3 most basic types of values in JavaScript?",
+    "options": {
+      "A": "String, number, object",
+      "B": "Number, object, null",
+      "C": "String, boolean, object",
+      "D": "Number, boolean, string"
+    },
+    "correctAnswer": "D",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "How do you declare a variable in JavaScript?",
+    "options": {
+      "A": "variable x",
+      "B": "const x",
+      "C": "declare x",
+      "D": "x"
+    },
+    "correctAnswer": "B",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "To create a string in JavaScript, you can use ' ', \" \", and &#768; &#768;.",
+    "options": {
+      "true": "true",
+      "false": "false"
+    },
+    "correctAnswer": "true",
+    "isMultipleChoice": "false"
+  },
+  {
+    "question": "<code>console.log('hello world');</code> is a valid syntax in JavaScript",
+    "options": {
+      "true": "true",
+      "false": "false"
+    },
+    "correctAnswer": "true",
+    "isMultipleChoice": "false"
+  },
+  {
+    "question": "How do you create a function named \"getAnswer\"?",
+    "options": {
+      "A": "function getAnswer()",
+      "B": "function = getAnswer()",
+      "C": "function => getAnswer()",
+      "D": "function: getAnswer()"
+    },
+    "correctAnswer": "A",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "How do you call a function named \"getAnswer\"?",
+    "options": {
+      "A": "getAnswer()",
+      "B": "call getAnswer()",
+      "C": "init getAnswer()",
+      "D": "get function getAnswer()"
+    },
+    "correctAnswer": "A",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "Which one is the correct syntax for writing an if statement?",
+    "options": {
+      "A": "if (condition) {code}",
+      "B": "if condition {code}",
+      "C": "if (condition) code",
+      "D": "if condition: code"
+    },
+    "correctAnswer": "A",
+    "isMultipleChoice": "true"
+  },
+  {
+    "question": "<code>&lt;!-- --&gt;</code> is a comment in JavaScript.",
+    "options": {
+      "true": "true",
+      "false": "false"
+    },
+    "correctAnswer": "false",
+    "isMultipleChoice": "false"
+  }
+]
